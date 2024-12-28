@@ -1,0 +1,7 @@
+D:\CDAC\web\dotnet\assign2\que5\bin\Debug\que5.exe.config
+D:\CDAC\web\dotnet\assign2\que5\bin\Debug\que5.exe
+D:\CDAC\web\dotnet\assign2\que5\bin\Debug\que5.pdb
+D:\CDAC\web\dotnet\assign2\que5\obj\Debug\que5.csproj.AssemblyReference.cache
+D:\CDAC\web\dotnet\assign2\que5\obj\Debug\que5.csproj.CoreCompileInputs.cache
+D:\CDAC\web\dotnet\assign2\que5\obj\Debug\que5.exe
+D:\CDAC\web\dotnet\assign2\que5\obj\Debug\que5.pdb

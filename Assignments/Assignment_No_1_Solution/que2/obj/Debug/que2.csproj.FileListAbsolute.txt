@@ -1,0 +1,10 @@
+D:\CDAC\web\dotnet\assign2\que2\bin\Debug\que2.exe.config
+D:\CDAC\web\dotnet\assign2\que2\bin\Debug\que2.exe
+D:\CDAC\web\dotnet\assign2\que2\bin\Debug\que2.pdb
+D:\CDAC\web\dotnet\assign2\que2\obj\Debug\que2.csproj.AssemblyReference.cache
+D:\CDAC\web\dotnet\assign2\que2\obj\Debug\que2.csproj.CoreCompileInputs.cache
+D:\CDAC\web\dotnet\assign2\que2\obj\Debug\que2.exe
+D:\CDAC\web\dotnet\assign2\que2\obj\Debug\que2.pdb
+D:\CDAC\web\dotnet\assign2\que2\bin\Debug\CalCib.dll
+D:\CDAC\web\dotnet\assign2\que2\bin\Debug\CalCib.pdb
+D:\CDAC\web\dotnet\assign2\que2\obj\Debug\que2.csproj.Up2Date
