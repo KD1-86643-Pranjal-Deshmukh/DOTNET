@@ -1,0 +1,10 @@
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\bin\Debug\HRMS.exe.config
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\bin\Debug\HRMS.exe
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\bin\Debug\HRMS.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\bin\Debug\EmployeeLib.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\bin\Debug\EmployeeLib.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\obj\Debug\HRMS.csproj.Up2Date
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\obj\Debug\HRMS.exe
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\HRMS\obj\Debug\HRMS.pdb

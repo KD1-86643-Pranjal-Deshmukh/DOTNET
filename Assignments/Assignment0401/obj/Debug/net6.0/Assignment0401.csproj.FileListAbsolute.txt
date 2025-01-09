@@ -1,0 +1,15 @@
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\bin\Debug\net6.0\Assignment0401.exe
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\bin\Debug\net6.0\Assignment0401.deps.json
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\bin\Debug\net6.0\Assignment0401.runtimeconfig.json
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\bin\Debug\net6.0\Assignment0401.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\bin\Debug\net6.0\Assignment0401.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.AssemblyInfoInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.AssemblyInfo.cs
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.sourcelink.json
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\refint\Assignment0401.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\Assignment0401.genruntimeconfig.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\Assignment0401\obj\Debug\net6.0\ref\Assignment0401.dll

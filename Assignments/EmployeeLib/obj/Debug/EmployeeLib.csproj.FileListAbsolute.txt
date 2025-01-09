@@ -1,0 +1,6 @@
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\bin\Debug\EmployeeLib.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\bin\Debug\EmployeeLib.pdb
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\obj\Debug\EmployeeLib.dll
+C:\Users\Ganesh\Desktop\dotnet\AssignmentSolutions\EmployeeLib\obj\Debug\EmployeeLib.pdb
